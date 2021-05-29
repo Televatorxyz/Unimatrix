@@ -18,7 +18,8 @@ Controls:
 Thumbsticks        - Move
 Thumbstick Buttons - Boost
 Grip Buttons       - Break
-Trigger Buttons    - Barrel Roll
+Trigger Button L   - Barrel Roll L
+Trigger Button R   - Barrel Roll R
 Primary Buttons    - Shoot [reserved]
 Secondary Buttons  - Bomb  [reserved]
 ```
