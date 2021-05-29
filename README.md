@@ -8,7 +8,7 @@ Based on https://github.com/mixandjam/StarFox-RailMovement
 ```
 Installation: 
 
-Copy via Android File Transfer (https://www.android.com/filetransfer/) to Quest2/Download 
+Open Sidequest on computer -> Install AKP file from folder on computer
 Go to Quest2 Menu -> Apps -> "Unknown Sources" -> Install
 ```
 
