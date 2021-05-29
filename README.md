@@ -9,7 +9,7 @@ Based on https://github.com/mixandjam/StarFox-RailMovement
 
 [DOWNLOAD](https://drive.google.com/file/d/1O1sNnFbIZnlNPAHxlaBGYwVhZxForrQP/view?usp=sharing) full Unity Project
 ```
-Installation: 
+Installation on the Quest 2: 
 
 Open Sidequest on computer -> menu: "install AKP file from folder on computer"
 Go to Quest2 Menu -> Apps -> "Unknown Sources" -> Install
