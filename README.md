@@ -8,8 +8,8 @@ Based on https://github.com/mixandjam/StarFox-RailMovement
 ```
 Installation: 
 
-Copy via [Android File Transfer](https://www.android.com/filetransfer/) to Quest2/Download 
-Go to Quest 2 Menu -> Apps -> "Unknown Sources" -> Install
+Copy via Android File Transfer (https://www.android.com/filetransfer/) to Quest2/Download 
+Go to Quest2 Menu -> Apps -> "Unknown Sources" -> Install
 ```
 
 ```
