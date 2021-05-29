@@ -15,6 +15,7 @@ Go to Quest2 Menu -> Apps -> "Unknown Sources" -> Install
 ```
 Controls:
 
+Raycast            - Aim
 Thumbsticks        - Move
 Thumbstick Buttons - Boost
 Grip Buttons       - Break
